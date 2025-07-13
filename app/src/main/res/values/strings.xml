@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PlainText</string>
+    <string name="message" />
+    <string name="login">Login:</string>
+    <string name="senha">Senha:</string>
+    <string name="Slogan">Bob and Alice\n</string>
+    <string name="nome_do_servi_o">Nome do Serviço</string>
+    <string name="cone_de_chave">Ícone de chave</string>
+    <string name="login_do_usuario">login.do.usuario</string>
+    <string name="seta_para_editar">Seta para editar</string>
+    <string name="adicionar_nova_senha">Adicionar nova senha</string>
+    <string name="hello">Olá!</string>
+</resources>
