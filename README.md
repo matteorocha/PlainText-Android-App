@@ -1,6 +1,8 @@
 # PlainText - Gestor de Senhas Simples para Android
 
-![Ícone da Aplicação](https://i.imgur.com/your-app-icon.png) <!-- Sugestão: Faça upload de um ícone do seu app e substitua o link -->
+## 👨‍💻 Autor
+
+Desenvolvido por Matheus Rocha Canto (Engenharia da Computação (UFAM) - 2025/01).
 
 ## 📖 Sobre o Projeto
 
@@ -34,26 +36,6 @@ O projeto cobre conceitos fundamentais do desenvolvimento Android, desde a cria�
     -   `RecyclerView` para a exibição eficiente de listas.
     -   `SharedPreferences` para a gestão de configurações simples.
 -   **Base de Dados:** SQLite para persistência de dados local.
-
----
-
-## 🚀 Como Executar
-
-Para compilar e executar o projeto localmente, siga estes passos:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/PlainText.git](https://github.com/seu-usuario/PlainText.git)
-    ```
-2.  **Abra no Android Studio:**
-    -   Inicie o Android Studio.
-    -   Selecione "Open an existing Project".
-    -   Navegue até à pasta onde clonou o repositório e selecione-a.
-3.  **Sincronize o Gradle:** Aguarde o Android Studio sincronizar e descarregar todas as dependências necessárias.
-4.  **Execute a Aplicação:**
-    -   Selecione um emulador (AVD) ou conecte um dispositivo físico com a depuração USB ativada.
-    -   Clique no botão "Run 'app'" (ícone de play verde).
-
 ---
 
 ## 🏗️ Estrutura do Projeto
@@ -67,19 +49,3 @@ O projeto está organizado da seguinte forma:
 -   `Password.java`: A classe de modelo (POJO) que representa uma única senha.
 -   `PasswordDAO.java`: A classe "Data Access Object" responsável por toda a comunicação com a base de dados SQLite.
 -   `Database.java`: A classe auxiliar que estende `SQLiteOpenHelper` para criar e gerir a versão da base de dados.
-
----
-
-## 🖼️ Telas da Aplicação
-
-<p align="center">
-  <img src="https://i.imgur.com/your-login-screen.png" width="200" alt="Tela de Login">
-  <img src="https://i.imgur.com/your-list-screen.png" width="200" alt="Tela da Lista">
-  <img src="https://i.imgur.com/your-edit-screen.png" width="200" alt="Tela de Edição">
-</p>
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por Matheus Rocha Canto (Engenharia da Computação (UFAM) - 2025/01).
