@@ -6,7 +6,7 @@ Desenvolvido por Matheus Rocha Canto (Engenharia da Computação (UFAM) - 2025/0
 
 ## 📖 Sobre o Projeto
 
-**PlainText** é uma aplicação Android nativa desenvolvida como um projeto de estudo para a disciplina de Técnicas Avançadas de Programação. A aplicação funciona como um gestor de senhas simples e seguro, permitindo que o utilizador guarde e gira as suas credenciais de forma local e persistente no dispositivo.
+**PlainText** é uma aplicação Android nativa desenvolvida como um projeto de estudo na disciplina Projeto de Programas. A atividade, trabalhada em 4 passos, na criação um gestor de senhas simples e seguro, permitindo que o utilizador guarde e gira as suas credenciais de forma local e persistente no dispositivo.
 
 O projeto cobre conceitos fundamentais do desenvolvimento Android, desde a criação de interfaces com XML até à gestão de dados com bases de dados SQLite, seguindo as melhores práticas e a arquitetura recomendada.
 
@@ -29,7 +29,7 @@ O projeto cobre conceitos fundamentais do desenvolvimento Android, desde a cria�
 
 -   **Linguagem:** Java
 -   **IDE:** Android Studio
--   **SDK Mínimo:** API 21 (Android 5.0 Lollipop)
+-   **SDK Mínimo:** API 30 (Android 11.0 "R")
 -   **Arquitetura:**
     -   Activities para a gestão das telas e do ciclo de vida.
     -   XML para a construção de layouts declarativos.
